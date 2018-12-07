@@ -1,5 +1,5 @@
 #relies on IE having been launched at least once. See the below exception.
-#comment out the IDs if you want to recurse your extensions and lookup all of them
+#remove the comment on line 11 if you want to recurse your extensions and lookup all of them
 #right now this is set to lookup HTTPS Everywhere from IETF
 #code courtesy of https://github.com/PsychoData
 <#
